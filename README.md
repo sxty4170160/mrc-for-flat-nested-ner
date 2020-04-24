@@ -93,7 +93,7 @@ python >= 3.6
 PyTorch == 1.1.0 
 pytorch-pretrained-bert == 0.6.1 
 ```
-* Download and unzip `BERT-Large, Cased English` and `BERT-Base, Chinese` pretrained checkpoints. Then follow the [guideline](https://github.com/huggingface/transformers) from huggingface to convert TF checkpoints to PyTorch. 
+* Download and unzip `BERT-Large, Cased English` and `BERT-Base, Chinese` pretrained checkpoints. Then follow the [guideline](https://huggingface.co/transformers/v2.5.0/converting_tensorflow_models.html) from huggingface to convert TF checkpoints to PyTorch. 
 
 
 ## Usage 
