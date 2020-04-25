@@ -1,0 +1,20 @@
+{
+  "default": {
+    "FAC": "4",
+    "GPE": "1",
+    "LOC": "6",
+    "ORG": "2",
+    "PER": "3",
+    "VEH": "5",
+    "WEA": "7"
+  },
+  "labels": [
+    "GPE",
+    "ORG",
+    "PER",
+    "FAC",
+    "VEH",
+    "LOC",
+    "WEA"
+  ]
+}

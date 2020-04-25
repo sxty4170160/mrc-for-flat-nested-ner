@@ -1,0 +1,17 @@
+{
+  "default": {
+    "NR": "\u771f\u5b9e\u548c\u865a\u6784\u7684\u4eba\u540d",
+    "NS": "\u62bd\u8c61\u548c\u5177\u4f53\u7684\u5730\u70b9",
+    "NT": "\u516c\u53f8,\u515a\u6d3e\u7b49\u7ec4\u7ec7\u673a\u6784"
+  },
+  "labels": [
+    "NS",
+    "NR",
+    "NT"
+  ],
+  "psedo_query": {
+    "NR": "\u4eba\u540d",
+    "NS": "\u5730\u70b9",
+    "NT": "\u7ec4\u7ec7\u673a\u6784"
+  }
+}
